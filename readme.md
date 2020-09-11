@@ -1,4 +1,4 @@
-**安卓自动化测试程序（Java版）**
+**安卓自动化测试程序（Java版）** -jenkins
 运行环境：
 - appium server
 - android SDK
